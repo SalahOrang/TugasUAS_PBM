@@ -19,6 +19,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".MoveOnePiece" />
+        <activity android:name="com.example.uas.AnimeDetailActivity" android:label="DETAIL"/>
     </application>
 
 </manifest>
